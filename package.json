@@ -1,0 +1,22 @@
+{
+  "name": "task-playwright-saucedemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrabhaSDET-TestV/Task-Playwright-Saucedemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrabhaSDET-TestV/Task-Playwright-Saucedemo/issues"
+  },
+  "homepage": "https://github.com/PrabhaSDET-TestV/Task-Playwright-Saucedemo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.53.0",
+    "@types/node": "^24.0.1"
+  }
+}
