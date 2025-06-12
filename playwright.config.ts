@@ -44,10 +44,12 @@ export default defineConfig({
       use: { ...devices['Desktop Firefox'] },
     },
 
+    /* Commenting out Safari as it's not needed for now
     {
       name: 'webkit',
       use: { ...devices['Desktop Safari'] },
     },
+    */
 
     /* Test against mobile viewports. */
     // {
